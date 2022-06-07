@@ -36,8 +36,8 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
-                    <port>8087</port>
-                    <path>/easyexcel1</path>
+                    <port>8080</port>
+                    <path>${project.artifactId}</path>
                     <uriEncoding>UTF-8</uriEncoding>
                 </configuration>
             </plugin>

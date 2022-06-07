@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.example:smart_freamwork:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Maven/apache-maven-3.6.1/repo/org/example/smart_freamwork/1.0-SNAPSHOT/smart_freamwork-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Maven/apache-maven-3.6.1/repo/org/example/smart_freamwork/1.0-SNAPSHOT/smart_freamwork-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Maven/apache-maven-3.6.1/repo/org/example/smart_freamwork/1.0-SNAPSHOT/smart_freamwork-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

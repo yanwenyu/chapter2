@@ -7,4 +7,8 @@ public interface ConfigConstant {
     String JDBC_URL = "smart.framework.jdbc.url";
     String JDBC_USERNAME = "smart.framework.jdbc.username";
     String JDBC_PASSWORD = "smart.framework.jdbc.password";
+
+    String BASEPACKAGE = "smart.framework.app.base_package";
+    String JSPPATH = "smart.framework.app.jsp_path";
+    String ASSETPATH = "smart.framework.app.asset_path";
 }
